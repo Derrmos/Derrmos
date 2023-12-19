@@ -17,6 +17,8 @@ Je suis un étudiant en informatique de 22 ans, actuellement en Master 2 spécia
 - Technologies : Apache Spark, MongoDB, PostgreSQL
 - Frameworks : Angular, React
 - Environnements : Node.js
+- Outils : Docker
+- Systèmes d'exploitation : Linux (Ubuntu)
 - Autres compétences : Analyse de données, Machine Learning
 
 ## Me contacter
